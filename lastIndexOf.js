@@ -1,14 +1,5 @@
-// const fruits = ["Orange", "Apple", "Mango", "Apple", "Banana", "Apple"];
-// let index = fruits.lastIndexOf("Apple");
-// console.log(index);
+// It searches the specified element in the given array and returns the index of the last match.
 
-
-const fruits = ["Orange", "Mango", "Apple", "Banana", "Mango"];
-// let index = fruits.lastIndexOf("mango");
-let result = fruits.lastIndexOf("Mango");
-console.log(result);
-
-
-// let name = ["vandu", "mamta", "rinki", "neha"]
-// let result = name.indexOf("vandu");
-// console.log(result);
+let array = [1,3,6,5,9,3, 4, 10]
+let result1 = array.lastIndexOf(3);
+console.log(result1);

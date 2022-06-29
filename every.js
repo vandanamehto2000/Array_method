@@ -1,24 +1,9 @@
-// The every() method executes a function for each array element.
-
-// The every() method returns true if the function returns true for all elements.
-
-// The every() method returns false if the function returns false for one element.
-
-// The every() method does not execute the function for empty elements.
-
-// The every() method does not change the original array
+// It determines whether all the elements of an array are satisfying the provided function conditions.
 
 
+let array = [1,2,3,4,5,6,7,8]
+let result = array.every(num => num < 10);
+console.log(result);
 
-
-const age = [1,2,4,6,12]
-
-// console.log(age.every(checkAge))
-
-function checkAge(age){
-    return age < 18;
-}
-console.log(age.every(checkAge))
-
-
-// console.log(checkAge());/
+// output
+// Boolean

@@ -1,3 +1,6 @@
+// It returns the element of the given array in a sorted order.
+
+
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 fruits.sort();
 fruits.reverse();

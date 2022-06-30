@@ -14,3 +14,6 @@ let array = [1,3,4,6,9,2]
 let result = array.map(num => num +1)
 console.log(result);
 
+
+// output
+// [ 2, 4, 5, 7, 10, 3 ]

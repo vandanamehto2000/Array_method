@@ -4,3 +4,6 @@
 let name = ["vandu", "mamta", "rinki", "neha", "mamta"]
 let result = name.indexOf("mamta");
 console.log(result);
+
+// output
+// 1

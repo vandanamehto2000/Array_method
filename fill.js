@@ -7,3 +7,7 @@ const name = ["sahil", "mohan", "neelu", "sonu", "mohit", "neha"]
 let result1 = name.fill("rahit", 2,5);
 // console.log(result);
 console.log(result1);
+
+
+// output
+// [ 'sahil', 'mohan', 'rahit', 'rahit', 'rahit', 'neha' ]

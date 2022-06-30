@@ -8,3 +8,8 @@ console.log(result);
 let number = [1,3,5,7,9]
 let result1 = number.toString();
 console.log(result1);
+
+
+// output
+// vandu,mohini,rinki,rohan,sahni
+// 1,3,5,7,9

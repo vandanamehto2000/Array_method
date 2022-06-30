@@ -8,3 +8,6 @@ console.log(result);
 const fruits1 = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 const myBest = fruits1.slice(-4,-1);
 console.log(myBest);
+
+// output
+// [ 'Orange', 'Lemon', 'Apple' ]

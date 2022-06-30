@@ -16,3 +16,5 @@ let number = [3,6,4,8,9,23]
 let result = number.find(num => num > 8);
 console.log(result);
 
+// output
+// 9

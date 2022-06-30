@@ -9,3 +9,10 @@ console.log(fruits);
 const number = [1,2,3,7,0,4,5,6]
 let result = number.sort();
 console.log(result);
+
+
+// output
+// [
+//   0, 1, 2, 3,
+//   4, 5, 6, 7
+// ]

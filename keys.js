@@ -6,3 +6,13 @@ let result = array.keys();
 for(let x of result){
     console.log(x);
 }
+
+
+// output
+// 0
+// 1
+// 2
+// 3
+// 4
+// 5
+// 6

@@ -7,3 +7,7 @@ console.log(result);
 let name = ["vandu", "ankit", "babita", "dolly"]
 let result1 = name.reverse();
 console.log(result1);
+
+
+// output
+// [ 'dolly', 'babita', 'ankit', 'vandu' ]

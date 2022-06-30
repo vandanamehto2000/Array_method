@@ -13,3 +13,5 @@ let array = [1, 10,3,5,7,8,9, 3]
 let result = (Element) => Element > 7;
 console.log(array.findIndex(result));
 
+// output
+// 1

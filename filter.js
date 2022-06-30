@@ -13,3 +13,6 @@ function checkAge(age){
 let array = [1,2,3,4,5,6,8]
 let filter = array.filter(num => num > 5);
 console.log(filter);
+
+// output
+// [ 6, 8 ]

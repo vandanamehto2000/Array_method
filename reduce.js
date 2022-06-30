@@ -4,3 +4,5 @@ let number = [1,2,3,5,4,7,9]
 let sum = number.reduce((total, num) => total + num + 0)
 console.log(sum);
 
+// output
+// 31

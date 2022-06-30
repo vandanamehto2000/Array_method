@@ -12,3 +12,7 @@ function myFunc(ages){
 let array = [1,2,3,4,5,6,7]
 let result1 = array.some(num => num > 5);
 console.log(result1);
+
+
+// output
+// boolean form
